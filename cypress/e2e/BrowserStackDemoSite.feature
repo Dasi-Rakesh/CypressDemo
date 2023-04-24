@@ -9,3 +9,4 @@ Feature: BrowserStack Demo Site
       | FirstName | LastName | Address  | State     | PostalCode |
       | Demo      | User     | H.no 123 | Telangana | 500019     |
     Then I Verify Order placed successfully
+    

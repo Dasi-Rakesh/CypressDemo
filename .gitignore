@@ -1,3 +1,7 @@
 node_modules/
 build_artifacts/
 results/
+.vscode/
+cypress/.DS_store
+cypress/videos/
+log/
